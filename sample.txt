@@ -1,1 +1,2 @@
 this is sample project for git init command
+this is second statement for git pull command
